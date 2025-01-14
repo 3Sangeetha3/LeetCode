@@ -9,11 +9,6 @@ public:
             rev = rev * 10 + rem ;
             x /= 10;
         }
-        if( rev == num){
-            return true;
-        }
-        else {
-            return false;
-        }
+        return rev == num;
     }
 };
