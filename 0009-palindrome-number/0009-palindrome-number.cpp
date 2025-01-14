@@ -5,8 +5,7 @@ public:
         int num = x;
         long long int rev = 0;
         while(x > 0){
-            int rem = x % 10;
-            rev = rev * 10 + rem ;
+            rev = rev * 10 + x % 10;
             x /= 10;
         }
         return rev == num;
