@@ -3,8 +3,8 @@ public:
     int maxSubArray(vector<int>& nums) {
         int n = nums.size();
 
-        int curr_sum = 0;
-        int maxi = nums[0];
+        long long curr_sum = 0;
+        long long maxi = LLONG_MIN;
 
         for(int i=0;i<n;i++){
             curr_sum += nums[i];
