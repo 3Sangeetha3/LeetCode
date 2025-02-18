@@ -15,7 +15,7 @@ public:
                 if(abs(target-sum) < abs(target-closestSum)){
                     closestSum = sum;
                 }
-
+                if(sum == target) return sum;
                 if(sum < target) i++;
                 else j--;
             }
