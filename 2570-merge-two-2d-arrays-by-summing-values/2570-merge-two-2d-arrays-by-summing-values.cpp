@@ -4,23 +4,32 @@ public:
         int m = nums1.size();
         int n = nums2.size();
 
-        map<int, int> mpp;
+        // Two pointer approach
         vector<vector<int>> res;
-        for(int i=0;i<m;i++){
-            int id = nums1[i][0];
-            int val = nums1[i][1];
+        int i=0, j=0;
+        while(i<m && j<n){
+            if(nums1[i][0] == nums2[j][0]){
+                res.push_back({nums1[i][0], nums1[i][1] + nums2[j][1]});
+                i++;
+                j++;
+            }else if(nums1[i][0] < nums2[j][0]){
+                res.push_back({nums1[i][0], nums1[i][1]});
+                i++;
+            }else {
+                res.push_back({nums2[j][0], nums2[j][1]});
+                j++;
+            }
+        }
 
-            mpp[id] += val;
+        while(i<m){
+            res.push_back({nums1[i][0], nums1[i][1]});
+            i++;
         }
-        for(int i=0;i<n;i++){
-            int id = nums2[i][0];
-            int val = nums2[i][1];
+        while(j<n){
+            res.push_back({nums2[j][0], nums2[j][1]});
+            j++;
+        }
 
-            mpp[id] += val;
-        }
-        for(auto &it: mpp){
-            res.push_back({it.first, it.second});
-        }
         return res;
     }
 };
