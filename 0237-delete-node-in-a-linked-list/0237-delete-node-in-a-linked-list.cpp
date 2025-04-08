@@ -9,10 +9,14 @@
 class Solution {
 public:
     void deleteNode(ListNode* node) {
-        // // overwriting method
-        // // dont know the head and previous element 
-        node->val = node->next->val;
-        node->next = node->next->next;
-        // But originally node is not deleted 
+        ListNode* prev = NULL;
+        while(node != NULL && node->next != NULL){
+            node->val = node->next->val;
+            prev = node;
+            node = node->next;
+        }
+
+        prev->next = NULL;
+        delete(node);
     }
 };
