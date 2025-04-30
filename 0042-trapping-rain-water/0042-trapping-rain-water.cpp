@@ -4,7 +4,7 @@ public:
         int n = height.size();
         vector<int> leftMax(n);
         vector<int> rightMax(n);
-        
+
         leftMax[0] = height[0];
         for(int i=1;i<n;i++){
             leftMax[i] = max(leftMax[i-1], height[i]);
@@ -19,6 +19,7 @@ public:
         for(int i=0;i<n;i++){
             water += (min(leftMax[i], rightMax[i]) - height[i]);
         }
+
         return water;
     }
 };
