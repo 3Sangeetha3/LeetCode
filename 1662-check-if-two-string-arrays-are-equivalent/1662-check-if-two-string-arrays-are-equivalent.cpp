@@ -8,6 +8,6 @@ public:
         for(string &str: word2){
             w2 += str;
         }
-        return w1 == w2 ? true : false;
+        return w1 == w2;
     }
 };
