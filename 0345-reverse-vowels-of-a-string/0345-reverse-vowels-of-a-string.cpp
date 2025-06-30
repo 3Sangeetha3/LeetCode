@@ -1,10 +1,8 @@
 class Solution {
 public:
-    bool isVowel(char &ch){
-        if(ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u' || 
-            ch == 'A' || ch == 'E' || ch == 'I' || ch == 'O' || ch == 'U' 
-        ) return true;
-        else return false;
+    bool isVowel(char ch){
+        static const unordered_set<char> vowels = {'a', 'e', 'i', 'o', 'u', 'A', 'E', 'I', 'O', 'U'};
+        return vowels.count(ch);
     }
     string reverseVowels(string s) {
         int n = s.size();
