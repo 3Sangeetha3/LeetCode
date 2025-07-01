@@ -11,13 +11,25 @@
  */
 class Solution {
 public:
+    // Using BFS method
     bool isSameTree(TreeNode* p, TreeNode* q) {
-        if(!p && !q){
-            return true;
+        queue<TreeNode *> qp;
+        queue<TreeNode *> qq;
+        qp.push(p);
+        qq.push(q);
+
+        while(!qp.empty() && !qq.empty()){
+            TreeNode* n1 = qp.front(); qp.pop();
+            TreeNode* n2 = qq.front(); qq.pop();
+
+            if(!n1 && !n2) continue;
+            if(!n1 || !n2 || n1->val != n2->val) return false;
+
+            qp.push(n1->left);
+            qp.push(n1->right);
+            qq.push(n2->left);
+            qq.push(n2->right);
         }
-        if(p && q && p->val == q->val){
-            return isSameTree(p->left, q->left) && isSameTree(p->right, q->right);
-        }
-        return false;
+        return true;
     }
 };
