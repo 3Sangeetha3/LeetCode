@@ -13,9 +13,8 @@ class Solution {
 public:
     int maxDepth(TreeNode* root) {
         if(root == nullptr) return 0;
-        int a = maxDepth(root->left);
-        int b = maxDepth(root->right);
-        int height = 1 + max(a,b);
-        return height;
+        int left = maxDepth(root->left);
+        int right = maxDepth(root->right);
+        return 1+max(left, right);
     }
 };
