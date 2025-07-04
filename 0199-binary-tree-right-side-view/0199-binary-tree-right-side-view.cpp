@@ -11,25 +11,20 @@
  */
 class Solution {
 public:
+    // To get the rightMost at each level, we:
+    // 1. Do preOrder DFS: root->right->left
+    // 2. Do keep the track of the depth(level) during traversal.
+    // 3. Only add the first node we encounter at each level(which will be the rightmost, since we go  right first )
+    void DFS(TreeNode* root, int level, vector<int> &res){
+        if(!root) return;
+
+        if(level == res.size()) res.push_back(root->val);
+        DFS(root->right, level+1, res);
+        DFS(root->left, level+1, res);
+    }
     vector<int> rightSideView(TreeNode* root) {
         vector<int> res;
-        if(!root) return res;
-
-        queue<TreeNode*> q;
-        q.push(root);
-
-        while(!q.empty()){
-            int size = q.size();
-            TreeNode* right = nullptr;
-            for(int i=0;i<size;i++){
-                TreeNode* curr = q.front();
-                q.pop();
-                if(curr->left) q.push(curr->left);
-                if(curr->right) q.push(curr->right);
-                right = curr;
-            }
-            res.push_back(right->val);
-        }
+        DFS(root, 0, res);
         return res;
     }
 };
