@@ -6,34 +6,32 @@
  *     TreeNode *right;
  *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
  *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left),
- * right(right) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
 class Solution {
 public:
-    TreeNode* childs(vector<int>& preorder, vector<int>& inorder, int start, int end, int& idx) {
-        if (start > end)
-            return nullptr;
-        
-        int rootval = preorder[idx];
-        TreeNode* root = new TreeNode(rootval);
+    unordered_map<int, int> inMap;
+    TreeNode* buildTreeHelper(vector<int>& preorder, int preStart, int preEnd, vector<int>& inorder, int inStart, int inEnd){
+        if(preStart > preEnd || inStart > inEnd) return nullptr;
 
-        int i = start;
-        for (; i <= end; i++){
-            if (inorder[i] == rootval) break;
-        }
-        
-        idx++;
+        int rootVal = preorder[preStart];
+        TreeNode* root = new TreeNode(rootVal);
 
-        root->left = childs(preorder, inorder, start, i - 1, idx);
-        root->right = childs(preorder, inorder, i + 1, end, idx);
+        int i = inMap[rootVal];
+        int numsLeft = i - inStart;
+
+        root->left = buildTreeHelper(preorder, preStart+1, preStart+numsLeft, inorder, inStart, i-1);
+        root->right = buildTreeHelper(preorder, preStart + numsLeft + 1, preEnd, inorder, i+1, inEnd);
 
         return root;
     }
     TreeNode* buildTree(vector<int>& preorder, vector<int>& inorder) {
         int n = preorder.size();
-        int idx = 0;
-        return childs(preorder, inorder, 0, n - 1, idx);
+        for(int i=0;i<n;i++){
+            inMap[inorder[i]] = i;
+        }
+
+        return buildTreeHelper(preorder, 0, n-1, inorder, 0, n-1);
     }
 };
