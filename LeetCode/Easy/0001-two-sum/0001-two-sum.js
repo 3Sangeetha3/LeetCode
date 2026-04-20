@@ -5,14 +5,15 @@
  */
 var twoSum = function(nums, target) {
     let n = nums.length;
+    let mp = new Map();
 
-    for(let i=0;i<n-1;i++){
-        for(let j=i+1;j<n;j++){
-            if(nums[i] + nums[j] === target){
-                return [i, j];
-            }
+    for(let i=0;i<n;i++){
+        let complement = target - nums[i];
+        if(mp.has(complement)){
+            return [mp.get(complement), i];
         }
-    }
 
+        mp.set(nums[i], i);
+    }
     return [];
 };
