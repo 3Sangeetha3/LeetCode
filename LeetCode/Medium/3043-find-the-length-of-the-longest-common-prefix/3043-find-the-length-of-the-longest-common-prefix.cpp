@@ -19,6 +19,7 @@ public:
                 int prefix = (num);
                 if(prefixes.count(prefix)){
                     max_length = max(max_length, (int)to_string(prefix).length());
+                    break;
                 }
                 num /= 10;
             }
