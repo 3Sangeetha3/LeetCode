@@ -7,10 +7,8 @@ public:
         int count = 0;
         
         for(int i=0;i<n;i++){
-            freq[A[i]]++;
-            if(freq[A[i]] == 2) count++;
-            freq[B[i]]++;
-            if(freq[B[i]] == 2) count++;
+            if(++freq[A[i]] == 2) count++;
+            if(++freq[B[i]] == 2) count++;
 
             C.push_back(count);
         }
