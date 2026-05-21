@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
+| [0014-longest-common-prefix](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0014-longest-common-prefix/) | Easy |
 | [0049-group-anagrams](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0075-sort-colors](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 | [0989-add-to-array-form-of-integer](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0989-add-to-array-form-of-integer/) | Easy |
@@ -26,6 +27,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0014-longest-common-prefix/) | Easy |
 | [0049-group-anagrams](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0125-valid-palindrome](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0344-reverse-string/) | Easy |
@@ -46,5 +48,6 @@
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0014-longest-common-prefix/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 <!---LeetCode Topics End-->
