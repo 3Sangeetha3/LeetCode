@@ -1,18 +1,15 @@
 class Solution {
 public:
     int minElement(vector<int>& nums) {
-        int n = nums.size();
-        vector<int> digitSum;
-        for(int i=0;i<n;i++){
-            int num = nums[i];
+        int ans = INT_MAX;
+        for(int num: nums){
+            string s = to_string(num);
             int sum = 0;
-            while(num>0){
-                sum += num % 10;
-                num /= 10;
+            for(char ch : s){
+                sum += ch - '0';
             }
-            digitSum.push_back(sum);
+            ans = min(ans, sum);
         }
-        sort(digitSum.begin(), digitSum.end());
-        return digitSum[0];
+    return ans;
     }
 };
