@@ -66,6 +66,7 @@
 | ------- | ------- |
 | [0989-add-to-array-form-of-integer](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0989-add-to-array-form-of-integer/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -93,6 +94,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -101,4 +103,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 <!---LeetCode Topics End-->
