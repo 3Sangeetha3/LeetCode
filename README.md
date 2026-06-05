@@ -8,6 +8,7 @@
 | [0014-longest-common-prefix](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/0015-3sum/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/0033-search-in-rotated-sorted-array/) | Medium |
+| [0035-search-insert-position](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0035-search-insert-position/) | Easy |
 | [0042-trapping-rain-water](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
 | [0049-group-anagrams](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0075-sort-colors](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
@@ -81,6 +82,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/0033-search-in-rotated-sorted-array/) | Medium |
+| [0035-search-insert-position](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0035-search-insert-position/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0704-binary-search](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
