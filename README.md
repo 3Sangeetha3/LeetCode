@@ -97,6 +97,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Hard/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0374-guess-number-higher-or-lower](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0374-guess-number-higher-or-lower/) | Easy |
 | [0436-find-right-interval](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/0436-find-right-interval/) | Medium |
 | [0704-binary-search](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0744-find-smallest-letter-greater-than-target/) | Easy |
@@ -139,4 +140,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/2161-partition-array-according-to-given-pivot/) | Medium |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0374-guess-number-higher-or-lower/) | Easy |
 <!---LeetCode Topics End-->
