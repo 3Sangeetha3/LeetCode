@@ -77,6 +77,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0367-valid-perfect-square](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0367-valid-perfect-square/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0989-add-to-array-form-of-integer/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/3751-total-waviness-of-numbers-in-range-i/) | Medium |
@@ -100,6 +101,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Hard/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0278-first-bad-version](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0278-first-bad-version/) | Easy |
+| [0367-valid-perfect-square](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0367-valid-perfect-square/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0374-guess-number-higher-or-lower/) | Easy |
 | [0436-find-right-interval](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/0436-find-right-interval/) | Medium |
 | [0704-binary-search](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
