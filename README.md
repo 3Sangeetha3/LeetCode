@@ -21,6 +21,7 @@
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2126-destroying-asteroids](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2574-left-and-right-sum-differences](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/2574-left-and-right-sum-differences/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -121,4 +122,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2574-left-and-right-sum-differences](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/2574-left-and-right-sum-differences/) | Easy |
 <!---LeetCode Topics End-->
