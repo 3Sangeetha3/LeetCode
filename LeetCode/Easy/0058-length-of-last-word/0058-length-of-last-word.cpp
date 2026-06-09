@@ -3,13 +3,14 @@ public:
     int lengthOfLastWord(string s) {
         int n = s.size();
         // find first non space char
-        int i = n-1, j=n-1;
-        while(i>=0 && j>=0 && s[i]== ' '){
-            i--;j--;
+        int end = n-1;
+        while(end>=0 && s[end]== ' '){
+            end--;
         }
-        while(i>=0 && j>=0 && s[j] != ' '){
-            j--;
+        int start = end;
+        while(start>=0 && s[start] != ' '){
+            start--;
         }
-        return i - j;
+        return end - start;
     }
 };
