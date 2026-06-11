@@ -1,13 +1,11 @@
 class Solution {
 public:
     int firstUniqChar(string s) {
-        map<char, int> mp;
-        for(char ch: s){
-            mp[ch]++;
-        }
-
-        for(int i=0;i<s.size();i++){
-            if(mp[s[i]] == 1){
+        int n = s.size();
+        vector<int> freq(26, 0);
+        for(char ch: s)freq[ch-'a']++;
+        for(int i=0;i<n;i++){
+            if(freq[s[i]-'a'] == 1){
                 return i;
                 break;
             }
