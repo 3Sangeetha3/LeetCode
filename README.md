@@ -40,6 +40,7 @@
 | [0001-two-sum](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
 | [0049-group-anagrams](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0205-isomorphic-strings](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0205-isomorphic-strings/) | Easy |
+| [0242-valid-anagram](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/3120-count-the-number-of-special-characters-i/) | Easy |
@@ -66,6 +67,7 @@
 | [0058-length-of-last-word](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0125-valid-palindrome/) | Easy |
 | [0205-isomorphic-strings](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0205-isomorphic-strings/) | Easy |
+| [0242-valid-anagram](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0344-reverse-string/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/3120-count-the-number-of-special-characters-i/) | Easy |
@@ -76,6 +78,7 @@
 | [0015-3sum](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/0015-3sum/) | Medium |
 | [0049-group-anagrams](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0075-sort-colors](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
+| [0242-valid-anagram](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 | [0436-find-right-interval](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/0436-find-right-interval/) | Medium |
 | [2126-destroying-asteroids](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
