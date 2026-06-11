@@ -1,24 +1,12 @@
 class Solution {
 public:
     bool isAnagram(string s, string t) {
-        unordered_map<char, int> mp;
-        if(s.size() != t.size()) return false;
-        for(char ch: s){
-            mp[ch]++;
-        }
-
-        for(char ch: t){
-            if(mp.count(ch) <= 0){
-                return false;
-            }
-            mp[ch]--;
-        }
-
-        for(auto it : mp){
-            if(it.second != 0)
-                return false;
-        }
-
+        int n = s.size(), m = t.size();
+        vector<int> freq(26, 0);
+        if(n!=m) return false;
+        for(int i=0;i<n;i++)freq[s[i]-'a']++;
+        for(int i=0;i<m;i++)freq[t[i]-'a']--;
+        for(int i=0;i<26;i++)if(freq[i]!=0) return false;
         return true;
     }
 };
