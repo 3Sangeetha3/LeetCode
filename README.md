@@ -41,6 +41,7 @@
 | [0049-group-anagrams](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0205-isomorphic-strings](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0387-first-unique-character-in-a-string/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/3120-count-the-number-of-special-characters-i/) | Easy |
@@ -69,6 +70,7 @@
 | [0205-isomorphic-strings](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0344-reverse-string/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0387-first-unique-character-in-a-string/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/3121-count-the-number-of-special-characters-ii/) | Medium |
@@ -169,4 +171,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0387-first-unique-character-in-a-string/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0387-first-unique-character-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
