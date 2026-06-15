@@ -2,20 +2,13 @@ class Solution {
 public:
     bool wordPattern(string pattern, string s) {
         vector<string> words;
-        int start = 0;
-        for(int i=0;i<s.size();i++)
+        stringstream ss(s);
+
+        string word;
+        while(ss >> word)
         {
-            if(s[i] == ' ')
-            {
-                words.push_back(
-                    s.substr(start, i-start)
-                );
-
-                start = i + 1;
-            }
+            words.push_back(word);
         }
-
-        words.push_back(s.substr(start));
 
         unordered_map<char, int> mp1;
         unordered_map<string, int> mp2;
