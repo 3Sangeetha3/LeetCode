@@ -4,10 +4,18 @@ public:
         unordered_map<string, vector<string>> mp;
         vector<vector<string>> res;
         for(string str: strs){
-            string s = str;
-            sort(s.begin(), s.end());
-            mp[s].push_back(str);
+            vector<int> freq(26, 0);
+            for(char ch: str){
+                freq[ch-'a']++;
+            }
+            
+            string key = "";
+            for(int num: freq){
+                key += to_string(num)+"#";
+            }
+            mp[key].push_back(str);
         }
+
         for(auto &it: mp){
             res.push_back(it.second);
         }
