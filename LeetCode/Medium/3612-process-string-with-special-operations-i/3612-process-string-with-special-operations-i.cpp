@@ -4,10 +4,9 @@ public:
         string res = "";
         for(char ch: s){
             if(islower(ch)){
-                res += ch;
+                res.push_back(ch);
             }else if(ch == '#'){
-                string temp = res;
-                res += temp;
+                res += res;
             }else if(ch == '%'){
                 reverse(res.begin(), res.end());
             }else{
