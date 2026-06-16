@@ -20,6 +20,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
+| [0268-missing-number](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/0287-find-the-duplicate-number/) | Medium |
 | [0436-find-right-interval](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/0436-find-right-interval/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/0540-single-element-in-a-sorted-array/) | Medium |
@@ -49,6 +50,7 @@
 | [0205-isomorphic-strings](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
+| [0268-missing-number](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
 | [0290-word-pattern](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0290-word-pattern/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0387-first-unique-character-in-a-string/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
@@ -96,6 +98,7 @@
 | [0169-majority-element](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
+| [0268-missing-number](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
 | [0436-find-right-interval](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/0436-find-right-interval/) | Medium |
 | [2126-destroying-asteroids](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -104,6 +107,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0367-valid-perfect-square/) | Easy |
 | [0441-arranging-coins](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0441-arranging-coins/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0989-add-to-array-form-of-integer/) | Easy |
@@ -113,6 +117,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0136-single-number/) | Easy |
+| [0268-missing-number](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/0287-find-the-duplicate-number/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 ## Trie
@@ -130,6 +135,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Hard/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0268-missing-number](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
 | [0278-first-bad-version](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0278-first-bad-version/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/0287-find-the-duplicate-number/) | Medium |
 | [0367-valid-perfect-square](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0367-valid-perfect-square/) | Easy |
