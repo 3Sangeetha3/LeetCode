@@ -3,7 +3,7 @@ public:
     string processStr(string s) {
         string res = "";
         for(char ch: s){
-            if(ch>='a' && ch<='z'){
+            if(islower(ch)){
                 res.push_back(ch);
             }else if(ch == '#'){
                 res += res;
