@@ -25,6 +25,7 @@
 | [0287-find-the-duplicate-number](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/0287-find-the-duplicate-number/) | Medium |
 | [0436-find-right-interval](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/0436-find-right-interval/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/0442-find-all-duplicates-in-an-array/) | Medium |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0744-find-smallest-letter-greater-than-target/) | Easy |
@@ -57,6 +58,7 @@
 | [0290-word-pattern](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0290-word-pattern/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0387-first-unique-character-in-a-string/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/0442-find-all-duplicates-in-an-array/) | Medium |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/3120-count-the-number-of-special-characters-i/) | Easy |
