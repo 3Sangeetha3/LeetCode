@@ -85,6 +85,7 @@
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3612-process-string-with-special-operations-i](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/3612-process-string-with-special-operations-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/3838-weighted-word-mapping/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -180,6 +181,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/2161-partition-array-according-to-given-pivot/) | Medium |
+| [3612-process-string-with-special-operations-i](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/3612-process-string-with-special-operations-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/3838-weighted-word-mapping/) | Easy |
 ## Interactive
 | Problem Name | Difficulty |
