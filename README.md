@@ -10,6 +10,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0035-search-insert-position/) | Easy |
+| [0041-first-missing-positive](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Hard/0041-first-missing-positive/) | Hard |
 | [0042-trapping-rain-water](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
 | [0049-group-anagrams](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/0074-search-a-2d-matrix/) | Medium |
@@ -45,6 +46,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
+| [0041-first-missing-positive](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Hard/0041-first-missing-positive/) | Hard |
 | [0049-group-anagrams](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0169-majority-element](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0205-isomorphic-strings](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0205-isomorphic-strings/) | Easy |
