@@ -23,6 +23,7 @@
 | [0169-majority-element](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
+| [0283-move-zeroes](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/0287-find-the-duplicate-number/) | Medium |
 | [0436-find-right-interval](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/0436-find-right-interval/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/0442-find-all-duplicates-in-an-array/) | Medium |
@@ -74,6 +75,7 @@
 | [0075-sort-colors](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 | [0125-valid-palindrome](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0283-move-zeroes](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0344-reverse-string/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/2161-partition-array-according-to-given-pivot/) | Medium |
