@@ -122,6 +122,7 @@
 | [0367-valid-perfect-square](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0367-valid-perfect-square/) | Easy |
 | [0441-arranging-coins](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0441-arranging-coins/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0989-add-to-array-form-of-integer/) | Easy |
+| [1344-angle-between-hands-of-a-clock](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/1344-angle-between-hands-of-a-clock/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Bit Manipulation
