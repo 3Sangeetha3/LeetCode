@@ -36,6 +36,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0989-add-to-array-form-of-integer](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0989-add-to-array-form-of-integer/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
+| [1480-running-sum-of-1d-array](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/1480-running-sum-of-1d-array/) | Easy |
 | [1539-kth-missing-positive-number](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/1539-kth-missing-positive-number/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/1752-check-if-array-is-sorted-and-rotated/) | Easy |
@@ -199,6 +200,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0724-find-pivot-index](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0724-find-pivot-index/) | Easy |
+| [1480-running-sum-of-1d-array](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/1480-running-sum-of-1d-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/1732-find-the-highest-altitude/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/2574-left-and-right-sum-differences/) | Easy |
 ## Simulation
