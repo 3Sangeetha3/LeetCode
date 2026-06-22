@@ -66,6 +66,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0387-first-unique-character-in-a-string/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [1189-maximum-number-of-balloons](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/1189-maximum-number-of-balloons/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/3120-count-the-number-of-special-characters-i/) | Easy |
@@ -99,6 +100,7 @@
 | [0290-word-pattern](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0290-word-pattern/) | Easy |
 | [0344-reverse-string](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0344-reverse-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0387-first-unique-character-in-a-string/) | Easy |
+| [1189-maximum-number-of-balloons](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/1189-maximum-number-of-balloons/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/3121-count-the-number-of-special-characters-ii/) | Medium |
@@ -230,6 +232,7 @@
 | ------- | ------- |
 | [0169-majority-element](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0387-first-unique-character-in-a-string/) | Easy |
+| [1189-maximum-number-of-balloons](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/1189-maximum-number-of-balloons/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
