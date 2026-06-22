@@ -34,6 +34,7 @@
 | [0724-find-pivot-index](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0724-find-pivot-index/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/0852-peak-index-in-a-mountain-array/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0977-squares-of-a-sorted-array/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0989-add-to-array-form-of-integer/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/1480-running-sum-of-1d-array/) | Easy |
@@ -84,6 +85,7 @@
 | [0283-move-zeroes](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0344-reverse-string/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0977-squares-of-a-sorted-array/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/2161-partition-array-according-to-given-pivot/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -118,6 +120,7 @@
 | [0268-missing-number](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
 | [0436-find-right-interval](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/0436-find-right-interval/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/0442-find-all-duplicates-in-an-array/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0977-squares-of-a-sorted-array/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/1833-maximum-ice-cream-bars/) | Medium |
 | [2126-destroying-asteroids](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
