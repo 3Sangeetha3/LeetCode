@@ -24,6 +24,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
+| [0238-product-of-array-except-self](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/0287-find-the-duplicate-number/) | Medium |
@@ -213,6 +214,7 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/0238-product-of-array-except-self/) | Medium |
 | [0724-find-pivot-index](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0724-find-pivot-index/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/1480-running-sum-of-1d-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/1732-find-the-highest-altitude/) | Easy |
