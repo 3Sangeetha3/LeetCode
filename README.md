@@ -55,6 +55,7 @@
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/3838-weighted-word-mapping/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -76,6 +77,7 @@
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -221,6 +223,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/1480-running-sum-of-1d-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/1732-find-the-highest-altitude/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/2574-left-and-right-sum-differences/) | Easy |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -246,12 +249,22 @@
 | [0169-majority-element](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0387-first-unique-character-in-a-string/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/1189-maximum-number-of-balloons/) | Easy |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/1833-maximum-ice-cream-bars/) | Medium |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 <!---LeetCode Topics End-->
