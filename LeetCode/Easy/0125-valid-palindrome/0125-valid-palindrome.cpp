@@ -1,17 +1,19 @@
 class Solution {
 public:
     bool isPalindrome(string s) {
-        string str = "";
-        for(char ch: s){
-            if(isalnum(ch)){
-                str.push_back(tolower(ch));
-            }
-        }
-
-        int l=0, r=str.size()-1;
+        int n = s.size();
+        int l =0, r=n-1;
         while(l<r){
-            if(str[l] != str[r]) return false;
-            l++;r--;
+            if(!isalnum(s[l])){
+                l++;
+                continue;
+            }
+            if(!isalnum(s[r])){
+                r--;
+                continue;
+            }
+            if(tolower(s[l]) != tolower(s[r])) return false;
+            l++; r--;
         }
         return true;
     }
