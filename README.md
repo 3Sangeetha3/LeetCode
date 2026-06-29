@@ -46,6 +46,7 @@
 | [1732-find-the-highest-altitude](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/1833-maximum-ice-cream-bars/) | Medium |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2126-destroying-asteroids](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -111,6 +112,7 @@
 | [0344-reverse-string](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0344-reverse-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0387-first-unique-character-in-a-string/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/1189-maximum-number-of-balloons/) | Easy |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/3121-count-the-number-of-special-characters-ii/) | Medium |
