@@ -75,6 +75,7 @@
 | [0389-find-the-difference](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0389-find-the-difference/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0859-buddy-strings](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0859-buddy-strings/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/1189-maximum-number-of-balloons/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
@@ -123,6 +124,7 @@
 | [0520-detect-capital](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0520-detect-capital/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0709-to-lower-case](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0709-to-lower-case/) | Easy |
+| [0859-buddy-strings](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0859-buddy-strings/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/1189-maximum-number-of-balloons/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
