@@ -40,6 +40,7 @@
 | [0905-sort-array-by-parity](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0977-squares-of-a-sorted-array/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0989-add-to-array-form-of-integer/) | Easy |
+| [1331-rank-transform-of-an-array](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/1331-rank-transform-of-an-array/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/1480-running-sum-of-1d-array/) | Easy |
 | [1539-kth-missing-positive-number](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/1539-kth-missing-positive-number/) | Easy |
@@ -77,6 +78,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0859-buddy-strings](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0859-buddy-strings/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/1189-maximum-number-of-balloons/) | Easy |
+| [1331-rank-transform-of-an-array](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/1331-rank-transform-of-an-array/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/3120-count-the-number-of-special-characters-i/) | Easy |
@@ -148,6 +150,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0977-squares-of-a-sorted-array/) | Easy |
+| [1331-rank-transform-of-an-array](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/1331-rank-transform-of-an-array/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/1833-maximum-ice-cream-bars/) | Medium |
 | [2126-destroying-asteroids](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
