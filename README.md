@@ -126,6 +126,7 @@
 | [0520-detect-capital](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0520-detect-capital/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0709-to-lower-case](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0709-to-lower-case/) | Easy |
+| [0796-rotate-string](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0796-rotate-string/) | Easy |
 | [0859-buddy-strings](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0859-buddy-strings/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/1189-maximum-number-of-balloons/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -261,6 +262,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0796-rotate-string](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0796-rotate-string/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
