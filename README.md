@@ -127,6 +127,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0345-reverse-vowels-of-a-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0389-find-the-difference/) | Easy |
+| [0459-repeated-substring-pattern](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0459-repeated-substring-pattern/) | Easy |
 | [0520-detect-capital](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0520-detect-capital/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0709-to-lower-case](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0709-to-lower-case/) | Easy |
@@ -271,6 +272,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0459-repeated-substring-pattern](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0459-repeated-substring-pattern/) | Easy |
 | [0796-rotate-string](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0796-rotate-string/) | Easy |
 | [1408-string-matching-in-an-array](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/1408-string-matching-in-an-array/) | Easy |
 ## Queue
