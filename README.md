@@ -49,6 +49,7 @@
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/1833-maximum-ice-cream-bars/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2126-destroying-asteroids](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -171,6 +172,7 @@
 | [0441-arranging-coins](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0441-arranging-coins/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0989-add-to-array-form-of-integer/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/1344-angle-between-hands-of-a-clock/) | Medium |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
@@ -303,4 +305,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
 <!---LeetCode Topics End-->
