@@ -41,6 +41,7 @@
 | [0905-sort-array-by-parity](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0977-squares-of-a-sorted-array/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0989-add-to-array-form-of-integer/) | Easy |
+| [1260-shift-2d-grid](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/1260-shift-2d-grid/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/1331-rank-transform-of-an-array/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1408-string-matching-in-an-array](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/1408-string-matching-in-an-array/) | Easy |
@@ -250,6 +251,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/0074-search-a-2d-matrix/) | Medium |
+| [1260-shift-2d-grid](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/1260-shift-2d-grid/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -263,6 +265,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1260-shift-2d-grid](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/1260-shift-2d-grid/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/2161-partition-array-according-to-given-pivot/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/3612-process-string-with-special-operations-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/3838-weighted-word-mapping/) | Easy |
