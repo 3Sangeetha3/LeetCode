@@ -1,10 +1,7 @@
 class Solution {
 public:
     bool isPrefixAndSuffix(string str1, string str2){
-        if(str2.starts_with(str1) && str2.ends_with(str1)){
-            return true;
-        }
-        return false;
+        return (str2.starts_with(str1) && str2.ends_with(str1));
     }
     int countPrefixSuffixPairs(vector<string>& words) {
         int n = words.size();
