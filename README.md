@@ -57,6 +57,7 @@
 | [2161-partition-array-according-to-given-pivot](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/2574-left-and-right-sum-differences/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/3042-count-prefix-and-suffix-pairs-i/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -143,6 +144,7 @@
 | [1768-merge-strings-alternately](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/1768-merge-strings-alternately/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/2000-reverse-prefix-of-word/) | Easy |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/3042-count-prefix-and-suffix-pairs-i/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/3121-count-the-number-of-special-characters-ii/) | Medium |
@@ -195,6 +197,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0014-longest-common-prefix/) | Easy |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/3042-count-prefix-and-suffix-pairs-i/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -284,6 +287,7 @@
 | [0796-rotate-string](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0796-rotate-string/) | Easy |
 | [1408-string-matching-in-an-array](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/1408-string-matching-in-an-array/) | Easy |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | Easy |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/3042-count-prefix-and-suffix-pairs-i/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -320,4 +324,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
+## Rolling Hash
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/3042-count-prefix-and-suffix-pairs-i/) | Easy |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/3042-count-prefix-and-suffix-pairs-i/) | Easy |
 <!---LeetCode Topics End-->
