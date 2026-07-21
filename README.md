@@ -108,6 +108,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0977-squares-of-a-sorted-array/) | Easy |
+| [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/1768-merge-strings-alternately/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/2000-reverse-prefix-of-word/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -138,6 +139,7 @@
 | [0859-buddy-strings](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0859-buddy-strings/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/1189-maximum-number-of-balloons/) | Easy |
 | [1408-string-matching-in-an-array](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/1408-string-matching-in-an-array/) | Easy |
+| [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/1768-merge-strings-alternately/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/2000-reverse-prefix-of-word/) | Easy |
@@ -281,6 +283,7 @@
 | [0459-repeated-substring-pattern](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0459-repeated-substring-pattern/) | Easy |
 | [0796-rotate-string](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0796-rotate-string/) | Easy |
 | [1408-string-matching-in-an-array](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/1408-string-matching-in-an-array/) | Easy |
+| [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
