@@ -33,6 +33,7 @@
 | [0436-find-right-interval](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/0436-find-right-interval/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0486-predict-the-winner](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/0486-predict-the-winner/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/0540-single-element-in-a-sorted-array/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0628-maximum-product-of-three-numbers/) | Easy |
 | [0704-binary-search](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
@@ -186,6 +187,7 @@
 | [0268-missing-number](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0367-valid-perfect-square/) | Easy |
 | [0441-arranging-coins](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0441-arranging-coins/) | Easy |
+| [0486-predict-the-winner](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0628-maximum-product-of-three-numbers/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0989-add-to-array-form-of-integer/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/1344-angle-between-hands-of-a-clock/) | Medium |
@@ -247,6 +249,7 @@
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0486-predict-the-winner](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/0486-predict-the-winner/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -346,4 +349,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0486-predict-the-winner](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/0486-predict-the-winner/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0486-predict-the-winner](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/0486-predict-the-winner/) | Medium |
 <!---LeetCode Topics End-->
