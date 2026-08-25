@@ -66,6 +66,7 @@
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
+| [3718-smallest-missing-multiple-of-k](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/3838-weighted-word-mapping/) | Easy |
@@ -94,6 +95,7 @@
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3718-smallest-missing-multiple-of-k](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Two Pointers
