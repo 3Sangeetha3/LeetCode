@@ -58,6 +58,7 @@
 | [2126-destroying-asteroids](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/2161-partition-array-according-to-given-pivot/) | Medium |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/2574-left-and-right-sum-differences/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -182,6 +183,7 @@
 | [1833-maximum-ice-cream-bars](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/1833-maximum-ice-cream-bars/) | Medium |
 | [2126-destroying-asteroids](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/3536-maximum-product-of-two-digits/) | Easy |
@@ -250,6 +252,7 @@
 | [1833-maximum-ice-cream-bars](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/1833-maximum-ice-cream-bars/) | Medium |
 | [2126-destroying-asteroids](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Easy/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/3Sangeetha3/LeetCode/tree/main/LeetCode/Medium/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Dynamic Programming
