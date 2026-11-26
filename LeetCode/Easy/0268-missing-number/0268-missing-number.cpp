@@ -6,6 +6,7 @@ public:
         for(int i=0;i<n;i++){
             res ^= i ^ nums[i];
         }
+
         return res;
     }
 };
